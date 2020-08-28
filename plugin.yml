@@ -1,0 +1,11 @@
+---
+name: RLSync
+main: xenialdan\RLSync\Loader
+version: 0.0.0
+api: ["4.0.0"]
+load: STARTUP
+authors:
+- XenialDan
+description: Synchronises ingame time and weather with a real life location
+website: https://github.com/thebigsmileXD/RLSync
+...
